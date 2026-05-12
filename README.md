@@ -23,19 +23,34 @@
 
 ### 💊 [Comprehensive Machine Learning Capstone]
 
-- **https://github.com/Toa-0128/ml-capstone-project**
-  An end-to-end Machine Learning portfolio demonstrating expertise across 4 major domains: **Regression, Classification, Time Series, and Clustering**. 
-  - Analyzed real-world healthcare and retail datasets to solve practical business problems.
-  - Built and tuned various models including Random Forest, SVC, and Deep Neural Networks (LSTM).
-  - **Key Highlight:** Prioritized model interpretability (Explainable AI) over fractional accuracy gains in the medical diagnosis classification task, reflecting a strong understanding of domain-specific business requirements.
-  - *Tech Stack: Python, Scikit-Learn, TensorFlow/Keras, Pandas, matplotlib, seaborn*
+---
 
-  **回帰・分類・時系列予測・クラスタリング**の4つの主要領域におけるエンドツーエンドの分析・実装スキルを証明する総合ポートフォリオ。
-  - 医療および小売業のリアルなデータセットを用い、実践的な課題解決のアプローチを実装。
-  - ランダムフォレスト、SVC、ディープニューラルネットワーク（LSTM）など多様なアルゴリズムを構築・チューニング。
-  - **ポイント:** 医療診断タスクにおいて、単なる精度の追求ではなく「現場での説明可能性（Interpretability）」を最重視してモデルを選定するなど、実務的なビジネス視点を持った意思決定を体現。
-  - *使用技術: Python, Scikit-Learn, TensorFlow/Keras, Pandas, matplotlib, seaborn*
+## 🏆 Key Projects / 主なプロジェクト
 
+### 🧪 [Comprehensive Machine Learning Capstone](https://github.com/Toa-0128/ml-capstone-project)
+**End-to-End portfolio across 4 major DS domains: Regression, Classification, Time Series, and Clustering**  
+*回帰・分類・時系列予測・クラスタリングの4つの主要領域を網羅した、エンドツーエンドの総合ポートフォリオ。*
+
+**🔹 Project Overview / 概要**
+- **EN:** Analyzed real-world healthcare and retail datasets to solve practical business problems. Demonstrates expertise in handling diverse data types and model architectures.
+- **JP:** 医療および小売業の実データを用い、実践的な課題解決を実装。多様なデータ形式とモデル構造への対応力を証明。
+
+**🔹 The 4 Core Domains / 4つの主要領域**
+- **Regression:** Predicting continuous variables in retail datasets.
+- **Classification:** Medical diagnosis using **Random Forest** and **SVC**.
+- **Time Series:** Forecasting trends with Deep Neural Networks (**LSTM**).
+- **Clustering:** Unsupervised learning for patient/customer segmentation.
+
+**🔹 Key Highlight / ここがポイント**
+> **Priority: Interpretability over Accuracy (Explainable AI)**
+> In medical diagnosis tasks, I prioritized model interpretability (XAI) over minor accuracy gains. This reflects a deep understanding of the requirement for "explainability" in clinical decision-making.
+> 
+> 医療診断タスクでは、わずかな精度向上よりも「現場での説明可能性」を最重視。臨床現場での意思決定に不可欠な「根拠の明示」を、技術選定の軸に据えています。
+
+**🔹 Tech Stack / 使用技術**
+`Python` `Scikit-Learn` `TensorFlow/Keras` `Pandas` `Matplotlib` `Seaborn`
+
+---
 
 ### 🥈 [Kaggle Competitions]
   - 各種コンペティションに参加し、実データを用いたモデリングスキルを研鑽中。
