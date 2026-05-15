@@ -3,6 +3,7 @@
 ### 🩺 Registered Nurse × 📊 Data Science Student
 
 **看護師免許を持ち、現在はカナダ・バンクーバーでデータサイエンスを専攻している学生です。**
+
 *Registered Nurse and current Data Science student in Vancouver, Canada.*
 
 ---
@@ -21,12 +22,6 @@
 
 ## 🏆 Key Projects
 
-### 💊 [Comprehensive Machine Learning Capstone]
-
----
-
-## 🏆 Key Projects / 主なプロジェクト
-
 ### 🧪 [Comprehensive Machine Learning Capstone](https://github.com/Toa-0128/ml-capstone-project)
 **End-to-End portfolio across 4 major DS domains: Regression, Classification, Time Series, and Clustering**  
 *回帰・分類・時系列予測・クラスタリングの4つの主要領域を網羅した、エンドツーエンドの総合ポートフォリオ。*
@@ -41,7 +36,7 @@
 - **Time Series:** Forecasting trends with Deep Neural Networks (**LSTM**).
 - **Clustering:** Unsupervised learning for patient/customer segmentation.
 
-**🔹 Key Highlight / ここがポイント**
+**🔹 Key Highlight / ポイント**
 > **Priority: Interpretability over Accuracy (Explainable AI)**
 > In medical diagnosis tasks, I prioritized model interpretability (XAI) over minor accuracy gains. This reflects a deep understanding of the requirement for "explainability" in clinical decision-making.
 > 
@@ -52,7 +47,19 @@
 
 ---
 
-### 🥈 [Kaggle Competitions]
-  - 各種コンペティションに参加し、実データを用いたモデリングスキルを研鑽中。
-  - *Actively participating in various competitions to hone modeling skills using real-world data.*
+### 🫀 [Production-Ready Heart Disease Prediction](https://github.com/Toa-0128/Heart-Disease-Prediction-Portfolio)
+**Robust Multi-Model Ensemble for Clinical Diagnosis (Kaggle Top 38%, 1627 out of 4370 participants)**  
+*臨床診断向けの堅牢なマルチモデルアンサンブル（Kaggle上位38%、4370中1627位）*
 
+**🔹 Project Overview / 概要**
+- **EN:** Developed an advanced machine learning pipeline to predict heart disease probabilities based on patient clinical data for Kaggle Playground Series S6E2.
+- **JP:** 患者の臨床データから心疾患の確率を予測する高度な機械学習パイプラインを構築（Kaggle Playground Series S6E2 参加プロジェクト）。
+
+**🔹 Key Highlight / ポイント**
+> **Priority: Generalizability over Overfitting (Clinical Production Ready)**
+> Instead of overfitting to the public leaderboard, I prioritized real-world generalizability by implementing strict data leakage prevention (scaling exclusively inside the CV loop) and rank-averaging across multiple GBDTs.
+> 
+> 順位を上げるための過学習を避け、実際の臨床現場での「汎用性と信頼性」を最重視。交差検証ループ内での厳密なスケーリング処理によるデータリーク防止や、複数モデル（GBDT）のランク平均アンサンブルを実装しています。
+
+**🔹 Tech Stack / 使用技術**
+`Python` `Scikit-Learn` `XGBoost` `LightGBM` `CatBoost` `Pandas`
